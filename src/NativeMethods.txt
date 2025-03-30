@@ -1,0 +1,12 @@
+﻿GetDesktopWindow
+GetWindowDC
+GetDeviceCaps
+ReleaseDC
+CreateCompatibleBitmap
+CreateCompatibleDC
+SelectObject
+BitBlt
+DeleteDC
+DeleteObject
+
+IMemoryBufferByteAccess

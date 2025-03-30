@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.35821.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaddleOnWindowsML", "PaddleOnWindowsML.csproj", "{18CC3B9D-5EE0-45EF-B104-58DFB2DD9693}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18CC3B9D-5EE0-45EF-B104-58DFB2DD9693}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{18CC3B9D-5EE0-45EF-B104-58DFB2DD9693}.Debug|Any CPU.Build.0 = Debug|x64
+		{18CC3B9D-5EE0-45EF-B104-58DFB2DD9693}.Release|Any CPU.ActiveCfg = Release|x64
+		{18CC3B9D-5EE0-45EF-B104-58DFB2DD9693}.Release|Any CPU.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5979D7ED-1F4B-4E3B-9F78-739DC835B8C9}
+	EndGlobalSection
+EndGlobal
